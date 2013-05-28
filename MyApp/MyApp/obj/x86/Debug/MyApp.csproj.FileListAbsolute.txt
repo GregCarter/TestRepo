@@ -1,0 +1,9 @@
+D:\Dev\C# Test\MyApp\MyApp\bin\Debug\MyApp.exe
+D:\Dev\C# Test\MyApp\MyApp\bin\Debug\MyApp.pdb
+D:\Dev\C# Test\MyApp\MyApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dev\C# Test\MyApp\MyApp\obj\x86\Debug\MyApp.Form1.resources
+D:\Dev\C# Test\MyApp\MyApp\obj\x86\Debug\MyApp.Properties.Resources.resources
+D:\Dev\C# Test\MyApp\MyApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dev\C# Test\MyApp\MyApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dev\C# Test\MyApp\MyApp\obj\x86\Debug\MyApp.exe
+D:\Dev\C# Test\MyApp\MyApp\obj\x86\Debug\MyApp.pdb
